@@ -1,7 +1,7 @@
 id=SagaFont-VF
 name=SagaFont VF (Shajia-VF 可变字重)
-version=2.0.0
-versionCode=2000000
+version=2.0.1
+versionCode=2000001
 author=Adapted for ColorOS 16
 description=基于 MFGA 适配 ColorOS 16 的全局可变字体模块，内置沙加体可变字体 Shajia-VF（wght 100-900）。中英文全局统一显示为沙加体，系统字体粗细调节可无级驱动 wght 轴。请在 ColorOS 设置中启用 Roboto 以获得最佳效果。Requires Magisk 28.0+ and KernelSU 11986+ Disable "Umount Module by default".
 minMagisk=28000
